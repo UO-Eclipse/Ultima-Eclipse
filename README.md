@@ -1,6 +1,6 @@
 # Ultima Eclipse
 
-Ultima Eclipse is a free to play Ultima Online shard that has zero PvP.  Open beta coming very soon!
+Ultima Eclipse is a free to play Ultima Online shard that has zero PvP.  Start with all skills GM and a nice care package!
 
 ## How To Play
 
