@@ -2,6 +2,8 @@
 
 Ultima Eclipse is a free to play Ultima Online shard that has zero PvP.  Start with all skills GM and a nice care package!
 
+![The Ultima Eclipse Game Launcher](https://uoeclipse.com/img/launcher.png)
+
 ## How To Play
 
 Our server is heavily modified to bring you features you're not going to find anywhere else.  Using our game launcher allows you to keep your files up to date with our server without having to worry about any of it.
