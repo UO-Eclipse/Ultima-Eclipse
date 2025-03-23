@@ -4,6 +4,8 @@ Ultima Eclipse is a free to play Ultima Online shard that has zero PvP.  Start w
 
 ![image](https://user-images.githubusercontent.com/2341699/209452033-310d40b4-22c1-46ed-b2ee-d125ed93351c.png)
 
+
+
 ## How To Play
 
 Our server is heavily modified to bring you features you're not going to find anywhere else.  Using our game launcher allows you to keep your files up to date with our server without having to worry about any of it.
